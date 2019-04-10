@@ -1,0 +1,318 @@
+CBSA Code,State FIPS Code,Metro Area,City,State,pop2017
+35620,34,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",Jersey City,NJ,20320876
+35620,34,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",Lakewood,NJ,20320876
+35620,34,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",Newark,NJ,20320876
+35620,34,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",New Brunswick,NJ,20320876
+35620,36,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",New York,NY,20320876
+35620,36,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",White Plains,NY,20320876
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Anaheim,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Arcadia,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Burbank,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Carson,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Costa Mesa,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Fountain Valley,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Gardena,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Glendale,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Irvine,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Long Beach,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Los Angeles,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Monterey Park,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Newport Beach,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Orange,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Pasadena,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Santa Ana,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Santa Monica,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Torrance,CA,13353907
+31080,6,"Los Angeles-Long Beach-Anaheim, CA Metro Area",Tustin,CA,13353907
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Arlington Heights,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Chicago,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Des Plaines,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Elgin,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Evanston,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Hoffman Estates,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Naperville,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Schaumburg,IL,9533040
+16980,17,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Skokie,IL,9533040
+16980,18,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",Gary,IN,9533040
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Arlington,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Dallas,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Denton,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Irving,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Plano,TX,7399662
+19100,48,"Dallas-Fort Worth-Arlington, TX Metro Area",Richardson,TX,7399662
+26420,48,"Houston-The Woodlands-Sugar Land, TX Metro Area",Baytown,TX,6892427
+26420,48,"Houston-The Woodlands-Sugar Land, TX Metro Area",Conroe,TX,6892427
+26420,48,"Houston-The Woodlands-Sugar Land, TX Metro Area",Houston,TX,6892427
+26420,48,"Houston-The Woodlands-Sugar Land, TX Metro Area",Sugar Land,TX,6892427
+26420,48,"Houston-The Woodlands-Sugar Land, TX Metro Area",The Woodlands,TX,6892427
+47900,11,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,DC,6216589
+47900,24,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Bethesda,MD,6216589
+47900,24,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Frederick,MD,6216589
+47900,24,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Gaithersburg,MD,6216589
+47900,24,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Rockville,MD,6216589
+47900,24,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Silver Spring,MD,6216589
+47900,51,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Alexandria,VA,6216589
+47900,51,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Arlington,VA,6216589
+47900,51,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Reston,VA,6216589
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Boca Raton,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Deerfield Beach,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Delray Beach,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Fort Lauderdale,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Jupiter,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Kendall,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Miami,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Miami Beach,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",Pompano Beach,FL,6158824
+33100,12,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",West Palm Beach,FL,6158824
+37980,34,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",Camden,NJ,6096120
+37980,42,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",Philadelphia,PA,6096120
+37980,10,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",Wilmington,DE,6096120
+12060,13,"Atlanta-Sandy Springs-Roswell, GA Metro Area",Alpharetta,GA,5884736
+12060,13,"Atlanta-Sandy Springs-Roswell, GA Metro Area",Atlanta,GA,5884736
+12060,13,"Atlanta-Sandy Springs-Roswell, GA Metro Area",Marietta,GA,5884736
+12060,13,"Atlanta-Sandy Springs-Roswell, GA Metro Area",Roswell,GA,5884736
+12060,13,"Atlanta-Sandy Springs-Roswell, GA Metro Area",Sandy Springs,GA,5884736
+14460,25,"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,MA,4836531
+14460,25,"Boston-Cambridge-Newton, MA-NH Metro Area",Cambridge,MA,4836531
+14460,25,"Boston-Cambridge-Newton, MA-NH Metro Area",Framingham,MA,4836531
+14460,25,"Boston-Cambridge-Newton, MA-NH Metro Area",Newton,MA,4836531
+14460,25,"Boston-Cambridge-Newton, MA-NH Metro Area",Waltham,MA,4836531
+38060,4,"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,AZ,4737270
+38060,4,"Phoenix-Mesa-Scottsdale, AZ Metro Area",Phoenix,AZ,4737270
+38060,4,"Phoenix-Mesa-Scottsdale, AZ Metro Area",Scottsdale,AZ,4737270
+38060,4,"Phoenix-Mesa-Scottsdale, AZ Metro Area",Tempe,AZ,4737270
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Berkeley,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Hayward,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Oakland,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Pleasanton,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Redwood City,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",San Leandro,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",San Rafael,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",San Ramon,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",South San Francisco,CA,4727357
+41860,6,"San Francisco-Oakland-Hayward, CA Metro Area",Walnut Creek,CA,4727357
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Chino,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Corona,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Ontario,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Redlands,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Riverside,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",San Bernardino,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Temecula,CA,4580670
+40140,6,"Riverside-San Bernardino-Ontario, CA Metro Area",Victorville,CA,4580670
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Dearborn,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Detroit,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Farmington Hills,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Livonia,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Novi,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Pontiac,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Southfield,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Taylor,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Troy,MI,4313002
+19820,26,"Detroit-Warren-Dearborn, MI Metro Area",Warren,MI,4313002
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Auburn,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Bellevue,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Everett,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Kent,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Lakewood,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Redmond,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Renton,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,WA,3867046
+42660,53,"Seattle-Tacoma-Bellevue, WA Metro Area",Tacoma,WA,3867046
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Bloomington,MN,3600618
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Eagan,MN,3600618
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Eden Prairie,MN,3600618
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Minneapolis,MN,3600618
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",Plymouth,MN,3600618
+33460,27,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",St. Paul,MN,3600618
+41740,6,"San Diego-Carlsbad, CA Metro Area",Carlsbad,CA,3337685
+41740,6,"San Diego-Carlsbad, CA Metro Area",San Diego,CA,3337685
+45300,12,"Tampa-St. Petersburg-Clearwater, FL Metro Area",Clearwater,FL,3091399
+45300,12,"Tampa-St. Petersburg-Clearwater, FL Metro Area",Largo,FL,3091399
+45300,12,"Tampa-St. Petersburg-Clearwater, FL Metro Area",St. Petersburg,FL,3091399
+45300,12,"Tampa-St. Petersburg-Clearwater, FL Metro Area",Tampa,FL,3091399
+19740,8,"Denver-Aurora-Lakewood, CO Metro Area",Aurora,CO,2888227
+19740,8,"Denver-Aurora-Lakewood, CO Metro Area",Broomfield,CO,2888227
+19740,8,"Denver-Aurora-Lakewood, CO Metro Area",Denver,CO,2888227
+19740,8,"Denver-Aurora-Lakewood, CO Metro Area",Lakewood,CO,2888227
+12580,24,"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,MD,2808175
+12580,24,"Baltimore-Columbia-Towson, MD Metro Area",Columbia,MD,2808175
+12580,24,"Baltimore-Columbia-Towson, MD Metro Area",Towson,MD,2808175
+41180,29,"St. Louis, MO-IL Metro Area",St. Charles,MO,2807338
+41180,29,"St. Louis, MO-IL Metro Area",St. Louis,MO,2807338
+16740,37,"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,NC,2525305
+16740,37,"Charlotte-Concord-Gastonia, NC-SC Metro Area",Concord,NC,2525305
+16740,37,"Charlotte-Concord-Gastonia, NC-SC Metro Area",Gastonia,NC,2525305
+16740,45,"Charlotte-Concord-Gastonia, NC-SC Metro Area",Rock Hill,SC,2525305
+36740,12,"Orlando-Kissimmee-Sanford, FL Metro Area",Kissimmee,FL,2509831
+36740,12,"Orlando-Kissimmee-Sanford, FL Metro Area",Orlando,FL,2509831
+36740,12,"Orlando-Kissimmee-Sanford, FL Metro Area",Sanford,FL,2509831
+41700,48,"San Antonio-New Braunfels, TX Metro Area",New Braunfels,TX,2473974
+41700,48,"San Antonio-New Braunfels, TX Metro Area",San Antonio,TX,2473974
+38900,41,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Beaverton,OR,2453168
+38900,41,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Hillsboro,OR,2453168
+38900,41,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,OR,2453168
+38900,53,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Vancouver,WA,2453168
+38300,42,"Pittsburgh, PA Metro Area",Pittsburgh,PA,2333367
+40900,6,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Arden-Arcade,CA,2324884
+40900,6,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Folsom,CA,2324884
+40900,6,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Rancho Cordova,CA,2324884
+40900,6,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Roseville,CA,2324884
+40900,6,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,CA,2324884
+29820,32,"Las Vegas-Henderson-Paradise, NV Metro Area",Henderson,NV,2204079
+29820,32,"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,NV,2204079
+29820,32,"Las Vegas-Henderson-Paradise, NV Metro Area",Paradise,NV,2204079
+17140,39,"Cincinnati, OH-KY-IN Metro Area",Cincinnati,OH,2179082
+28140,20,"Kansas City, MO-KS Metro Area",Kansas City,KS,2128912
+28140,20,"Kansas City, MO-KS Metro Area",Overland Park,KS,2128912
+28140,29,"Kansas City, MO-KS Metro Area",Kansas City,MO,2128912
+12420,48,"Austin-Round Rock, TX Metro Area",Austin,TX,2115827
+12420,48,"Austin-Round Rock, TX Metro Area",Round Rock,TX,2115827
+18140,39,"Columbus, OH Metro Area",Columbus,OH,2078725
+17460,39,"Cleveland-Elyria, OH Metro Area",Cleveland,OH,2058844
+17460,39,"Cleveland-Elyria, OH Metro Area",Elyria,OH,2058844
+26900,18,"Indianapolis-Carmel-Anderson, IN Metro Area",Anderson,IN,2028614
+26900,18,"Indianapolis-Carmel-Anderson, IN Metro Area",Carmel,IN,2028614
+26900,18,"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis city (balance),IN,2028614
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Cupertino,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Milpitas,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Mountain View,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Palo Alto,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",San Jose,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Santa Clara,CA,1998463
+41940,6,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",Sunnyvale,CA,1998463
+34980,47,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Franklin,TN,1903045
+34980,47,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Murfreesboro,TN,1903045
+34980,47,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville-Davidson metropolitan government (balance),TN,1903045
+47260,51,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Hampton,VA,1725246
+47260,51,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Newport News,VA,1725246
+47260,51,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Norfolk,VA,1725246
+47260,51,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Portsmouth,VA,1725246
+47260,51,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",Virginia Beach,VA,1725246
+39300,44,"Providence-Warwick, RI-MA Metro Area",Providence,RI,1621122
+39300,44,"Providence-Warwick, RI-MA Metro Area",Warwick,RI,1621122
+33340,55,"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,WI,1576236
+33340,55,"Milwaukee-Waukesha-West Allis, WI Metro Area",Waukesha,WI,1576236
+33340,55,"Milwaukee-Waukesha-West Allis, WI Metro Area",West Allis,WI,1576236
+27260,12,"Jacksonville, FL Metro Area",Jacksonville,FL,1504980
+36420,40,"Oklahoma City, OK Metro Area",Oklahoma City,OK,1383737
+32820,47,"Memphis, TN-MS-AR Metro Area",Memphis,TN,1348260
+39580,37,"Raleigh, NC Metro Area",Raleigh,NC,1335079
+40060,51,"Richmond, VA Metro Area",Richmond,VA,1294204
+31140,21,"Louisville/Jefferson County, KY-IN Metro Area",Louisville/Jefferson County metro government (balance),KY,1293953
+35380,22,"New Orleans-Metairie, LA Metro Area",Metairie,LA,1275762
+35380,22,"New Orleans-Metairie, LA Metro Area",New Orleans,LA,1275762
+25540,9,"Hartford-West Hartford-East Hartford, CT Metro Area",East Hartford,CT,1210259
+25540,9,"Hartford-West Hartford-East Hartford, CT Metro Area",Hartford,CT,1210259
+25540,9,"Hartford-West Hartford-East Hartford, CT Metro Area",Middletown,CT,1210259
+25540,9,"Hartford-West Hartford-East Hartford, CT Metro Area",West Hartford,CT,1210259
+41620,49,"Salt Lake City, UT Metro Area",Salt Lake City,UT,1203105
+13820,1,"Birmingham-Hoover, AL Metro Area",Birmingham,AL,1149807
+13820,1,"Birmingham-Hoover, AL Metro Area",Hoover,AL,1149807
+15380,36,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",Buffalo,NY,1136856
+15380,36,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",Cheektowaga,NY,1136856
+15380,36,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",Niagara Falls,NY,1136856
+40380,36,"Rochester, NY Metro Area",Rochester,NY,1077948
+24340,26,"Grand Rapids-Wyoming, MI Metro Area",Grand Rapids,MI,1059113
+24340,26,"Grand Rapids-Wyoming, MI Metro Area",Wyoming,MI,1059113
+46060,4,"Tucson, AZ Metro Area",Tucson,AZ,1022769
+46140,40,"Tulsa, OK Metro Area",Tulsa,OK,990706
+23420,6,"Fresno, CA Metro Area",Fresno,CA,989255
+46520,15,"Urban Honolulu, HI Metro Area",Urban Honolulu,HI,988650
+14860,9,"Bridgeport-Stamford-Norwalk, CT Metro Area",Bridgeport,CT,949921
+14860,9,"Bridgeport-Stamford-Norwalk, CT Metro Area",Danbury,CT,949921
+14860,9,"Bridgeport-Stamford-Norwalk, CT Metro Area",Norwalk,CT,949921
+14860,9,"Bridgeport-Stamford-Norwalk, CT Metro Area",Stamford,CT,949921
+14860,9,"Bridgeport-Stamford-Norwalk, CT Metro Area",Stratford,CT,949921
+49340,25,"Worcester, MA-CT Metro Area",Worcester,MA,942475
+36540,19,"Omaha-Council Bluffs, NE-IA Metro Area",Council Bluffs,IA,933316
+36540,31,"Omaha-Council Bluffs, NE-IA Metro Area",Omaha,NE,933316
+10740,35,"Albuquerque, NM Metro Area",Albuquerque,NM,910726
+24860,45,"Greenville-Anderson-Mauldin, SC Metro Area",Anderson,SC,895923
+24860,45,"Greenville-Anderson-Mauldin, SC Metro Area",Easley,SC,895923
+24860,45,"Greenville-Anderson-Mauldin, SC Metro Area",Greenville,SC,895923
+24860,45,"Greenville-Anderson-Mauldin, SC Metro Area",Mauldin,SC,895923
+12540,6,"Bakersfield, CA Metro Area",Bakersfield,CA,893119
+10580,36,"Albany-Schenectady-Troy, NY Metro Area",Albany,NY,886188
+10580,36,"Albany-Schenectady-Troy, NY Metro Area",Schenectady,NY,886188
+10580,36,"Albany-Schenectady-Troy, NY Metro Area",Troy,NY,886188
+28940,47,"Knoxville, TN Metro Area",Knoxville,TN,877104
+32580,48,"McAllen-Edinburg-Mission, TX Metro Area",Edinburg,TX,860661
+32580,48,"McAllen-Edinburg-Mission, TX Metro Area",McAllen,TX,860661
+32580,48,"McAllen-Edinburg-Mission, TX Metro Area",Mission,TX,860661
+35300,9,"New Haven-Milford, CT Metro Area",Milford city (balance),CT,860435
+35300,9,"New Haven-Milford, CT Metro Area",New Haven,CT,860435
+37100,6,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",Camarillo,CA,854223
+37100,6,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",Oxnard,CA,854223
+37100,6,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",San Buenaventura (Ventura),CA,854223
+37100,6,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",Thousand Oaks,CA,854223
+21340,48,"El Paso, TX Metro Area",El Paso,TX,844818
+10900,42,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",Allentown,PA,840550
+10900,42,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",Bethlehem,PA,840550
+12940,22,"Baton Rouge, LA Metro Area",Baton Rouge,LA,834159
+17900,45,"Columbia, SC Metro Area",Columbia,SC,825033
+35840,12,"North Port-Sarasota-Bradenton, FL Metro Area",Bradenton,FL,804690
+35840,12,"North Port-Sarasota-Bradenton, FL Metro Area",North Port,FL,804690
+35840,12,"North Port-Sarasota-Bradenton, FL Metro Area",Sarasota,FL,804690
+35840,12,"North Port-Sarasota-Bradenton, FL Metro Area",Venice,FL,804690
+19380,39,"Dayton, OH Metro Area",Dayton,OH,803416
+16700,45,"Charleston-North Charleston, SC Metro Area",Charleston,SC,775831
+16700,45,"Charleston-North Charleston, SC Metro Area",North Charleston,SC,775831
+24660,37,"Greensboro-High Point, NC Metro Area",Greensboro,NC,761184
+24660,37,"Greensboro-High Point, NC Metro Area",High Point,NC,761184
+44700,6,"Stockton-Lodi, CA Metro Area",Lodi,CA,745424
+44700,6,"Stockton-Lodi, CA Metro Area",Stockton,CA,745424
+15980,12,"Cape Coral-Fort Myers, FL Metro Area",Cape Coral,FL,739224
+15980,12,"Cape Coral-Fort Myers, FL Metro Area",Fort Myers,FL,739224
+30780,5,"Little Rock-North Little Rock-Conway, AR Metro Area",Conway,AR,738344
+30780,5,"Little Rock-North Little Rock-Conway, AR Metro Area",Little Rock,AR,738344
+30780,5,"Little Rock-North Little Rock-Conway, AR Metro Area",North Little Rock,AR,738344
+17820,8,"Colorado Springs, CO Metro Area",Colorado Springs,CO,723878
+14260,16,"Boise City, ID Metro Area",Boise City,ID,709845
+10420,39,"Akron, OH Metro Area",Akron,OH,703505
+29460,12,"Lakeland-Winter Haven, FL Metro Area",Lakeland,FL,686483
+29460,12,"Lakeland-Winter Haven, FL Metro Area",Winter Haven,FL,686483
+49180,37,"Winston-Salem, NC Metro Area",Winston-Salem,NC,667733
+36260,49,"Ogden-Clearfield, UT Metro Area",Clearfield,UT,665358
+36260,49,"Ogden-Clearfield, UT Metro Area",Ogden,UT,665358
+45060,36,"Syracuse, NY Metro Area",Syracuse,NY,654841
+31540,55,"Madison, WI Metro Area",Madison,WI,654230
+19660,12,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",Daytona Beach,FL,649202
+19660,12,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",Deltona,FL,649202
+19660,12,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",Ormond Beach,FL,649202
+19780,19,"Des Moines-West Des Moines, IA Metro Area",Des Moines,IA,645911
+19780,19,"Des Moines-West Des Moines, IA Metro Area",West Des Moines,IA,645911
+48620,20,"Wichita, KS Metro Area",Wichita,KS,645628
+44140,25,"Springfield, MA Metro Area",Springfield,MA,631652
+39340,49,"Provo-Orem, UT Metro Area",Orem,UT,617675
+39340,49,"Provo-Orem, UT Metro Area",Provo,UT,617675
+45780,39,"Toledo, OH Metro Area",Toledo,OH,603668
+12260,13,"Augusta-Richmond County, GA-SC Metro Area",Augusta-Richmond County consolidated government (balance),GA,600151
+37340,12,"Palm Bay-Melbourne-Titusville, FL Metro Area",Melbourne,FL,589162
+37340,12,"Palm Bay-Melbourne-Titusville, FL Metro Area",Palm Bay,FL,589162
+37340,12,"Palm Bay-Melbourne-Titusville, FL Metro Area",Titusville,FL,589162
+27140,28,"Jackson, MS Metro Area",Jackson,MS,578715
+25420,42,"Harrisburg-Carlisle, PA Metro Area",Carlisle,PA,571903
+25420,42,"Harrisburg-Carlisle, PA Metro Area",Harrisburg,PA,571903
+20500,37,"Durham-Chapel Hill, NC Metro Area",Chapel Hill,NC,567428
+20500,37,"Durham-Chapel Hill, NC Metro Area",Durham,NC,567428
+44060,53,"Spokane-Spokane Valley, WA Metro Area",Spokane,WA,564236
+44060,53,"Spokane-Spokane Valley, WA Metro Area",Spokane Valley,WA,564236
+16860,47,"Chattanooga, TN-GA Metro Area",Chattanooga,TN,556548
+42540,42,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",Hazleton,PA,555426
+42540,42,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",Scranton,PA,555426
+42540,42,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",Wilkes-Barre,PA,555426
+33700,6,"Modesto, CA Metro Area",Modesto,CA,547899
+29540,42,"Lancaster, PA Metro Area",Lancaster,PA,542903
+49660,39,"Youngstown-Warren-Boardman, OH-PA Metro Area",Boardman,OH,541926
+49660,39,"Youngstown-Warren-Boardman, OH-PA Metro Area",Warren,OH,541926
+49660,39,"Youngstown-Warren-Boardman, OH-PA Metro Area",Youngstown,OH,541926
+22220,5,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",Bentonville,AR,537463
+22220,5,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",Fayetteville,AR,537463
+22220,5,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",Rogers,AR,537463
+22220,5,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",Springdale,AR,537463
+38860,23,"Portland-South Portland, ME Metro Area",Portland,ME,532083
+38860,23,"Portland-South Portland, ME Metro Area",South Portland,ME,532083
+30460,21,"Lexington-Fayette, KY Metro Area",Lexington-Fayette,KY,512650
+42220,6,"Santa Rosa, CA Metro Area",Santa Rosa,CA,504217
